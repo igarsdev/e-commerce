@@ -20,7 +20,7 @@ const products = [
   {
     id: 3,
     name: "Headphone",
-    price: 1000000,
+    price: 1000000000,
     image: "https://picsum.photos/300/202",
     description: "Headphone wireless dengan noise cancelling",
   },
