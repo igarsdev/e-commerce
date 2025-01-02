@@ -1,8 +1,8 @@
-**Simple E-commerce Website**
+# **Simple E-commerce Website**
 
 This simple e-commerce website serves as a foundational platform for showcasing products and allowing users to view detailed information about each item. Designed with a clean and responsive layout, the site provides a user-friendly experience suitable for learning and development purposes.
 
-**Key Features:**
+## **Key Features:**
 
 1. **Product Display:**
 
@@ -28,12 +28,12 @@ This simple e-commerce website serves as a foundational platform for showcasing 
    - Product information is stored in a JavaScript array, making it easy to update or modify the product list.
    - Each product includes an ID, name, price, image URL, and description, allowing for flexibility in presentation.
 
-**Technical Overview:**
+## **Technical Overview:**
 
 - **HTML:** Structures the content and layout of the site, providing a semantic and accessible framework.
 - **CSS:** Styles the website, ensuring a visually appealing and consistent design across different devices.
 - **JavaScript:** Handles interactivity, such as displaying product details and managing the modal functionality.
 
-**Purpose and Use Case:**
+## **Purpose and Use Case:**
 
 This e-commerce website is an excellent starting point for learning how to manage and display data in a web application. It demonstrates basic principles of web development, including responsive design, interactive elements, and data-driven content management. Ideal for beginners, this project can be expanded with additional features such as a shopping cart, user authentication, or an integrated payment system.
